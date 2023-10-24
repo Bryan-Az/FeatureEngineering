@@ -1,4 +1,4 @@
-# FeatureEngineering
+# Feature Engineering
 Feature Engineering of Unstructured Data (Audio/.Wav)
 
 Data for this project is stored in the DataWavs directory.
