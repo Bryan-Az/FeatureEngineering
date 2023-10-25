@@ -9,7 +9,7 @@ Data for the Sound .Wav files used in this project were gathered from the follow
 Whistler Wave: https://www.nasa.gov/missions/mms/nasa-listens-in-as-electrons-whistle-while-they-work/
 
     - NASA Whistler .mp3
-Kepler Star & Jupyter flyby's (Juno Mission): https://www.nasa.gov/audio-and-ringtones/ & https://soundcloud.com/nasa/audio-from-nasas-juno-mission-europa-flyby
+Kepler Star (Light Curve Waves) & Jupyter flyby's (Juno Mission): https://www.nasa.gov/audio-and-ringtones/ & https://soundcloud.com/nasa/audio-from-nasas-juno-mission-europa-flyby
 
     - Kepler Star KIC7671081B & KIC12268220C .mp3's
     - Ganymede flyby .Wav
